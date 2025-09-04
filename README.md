@@ -4,6 +4,6 @@ Class exercise
 
 I am Maura
 
-I am Lorena
+I am Lorena, and adding conflict
 
-adding conflict
+Hello World!
